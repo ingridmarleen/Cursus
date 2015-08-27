@@ -14,12 +14,10 @@ and open the template in the editor.
             // hiërarchie: kaarten -> kleur -> nummer
         
             $cards = array(
-                'colour' => array(
-                    'red' => array(1,2,3,4),
-                    'blue' => array(1,2,3,4),
-                    'green' => array(1,2,3,4),
-                    'yellow' => array(1,2,3,4),
-                )
+                'red' => array(1,2,3,4),
+                'blue' => array(1,2,3,4),
+                'green' => array(1,2,3,4),
+                'yellow' => array(1,2,3,4),
             );
             
             //print de array op scherm
