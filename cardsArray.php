@@ -21,7 +21,7 @@ and open the template in the editor.
             );
             
             //print de array op scherm
-            print_r($cards);
+            var_dump($cards);
         ?>
     </body>
 </html>
